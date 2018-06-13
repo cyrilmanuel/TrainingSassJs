@@ -4,6 +4,48 @@
     <list default="true" id="e7206f67-ec4b-4be5-af9b-1ca0478ed324" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/flaskr/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/flaskr/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flaskr/static/all.css" beforeDir="false" afterPath="$PROJECT_DIR$/flaskr/static/all.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flaskr/static/scss/components/_badges.scss" beforeDir="false" afterPath="$PROJECT_DIR$/flaskr/static/scss/materialize/components/_badges.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flaskr/static/scss/components/_buttons.scss" beforeDir="false" afterPath="$PROJECT_DIR$/flaskr/static/scss/materialize/components/_buttons.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flaskr/static/scss/components/_cards.scss" beforeDir="false" afterPath="$PROJECT_DIR$/flaskr/static/scss/materialize/components/_cards.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flaskr/static/scss/components/_carousel.scss" beforeDir="false" afterPath="$PROJECT_DIR$/flaskr/static/scss/materialize/components/_carousel.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flaskr/static/scss/components/_chips.scss" beforeDir="false" afterPath="$PROJECT_DIR$/flaskr/static/scss/materialize/components/_chips.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flaskr/static/scss/components/_collapsible.scss" beforeDir="false" afterPath="$PROJECT_DIR$/flaskr/static/scss/materialize/components/_collapsible.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flaskr/static/scss/components/_color-classes.scss" beforeDir="false" afterPath="$PROJECT_DIR$/flaskr/static/scss/materialize/components/_color-classes.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flaskr/static/scss/components/_color-variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/flaskr/static/scss/materialize/components/_color-variables.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flaskr/static/scss/components/_datepicker.scss" beforeDir="false" afterPath="$PROJECT_DIR$/flaskr/static/scss/materialize/components/_datepicker.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flaskr/static/scss/components/_dropdown.scss" beforeDir="false" afterPath="$PROJECT_DIR$/flaskr/static/scss/materialize/components/_dropdown.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flaskr/static/scss/components/_global.scss" beforeDir="false" afterPath="$PROJECT_DIR$/flaskr/static/scss/materialize/components/_global.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flaskr/static/scss/components/_grid.scss" beforeDir="false" afterPath="$PROJECT_DIR$/flaskr/static/scss/materialize/components/_grid.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flaskr/static/scss/components/_icons-material-design.scss" beforeDir="false" afterPath="$PROJECT_DIR$/flaskr/static/scss/materialize/components/_icons-material-design.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flaskr/static/scss/components/_materialbox.scss" beforeDir="false" afterPath="$PROJECT_DIR$/flaskr/static/scss/materialize/components/_materialbox.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flaskr/static/scss/components/_modal.scss" beforeDir="false" afterPath="$PROJECT_DIR$/flaskr/static/scss/materialize/components/_modal.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flaskr/static/scss/components/_navbar.scss" beforeDir="false" afterPath="$PROJECT_DIR$/flaskr/static/scss/materialize/components/_navbar.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flaskr/static/scss/components/_normalize.scss" beforeDir="false" afterPath="$PROJECT_DIR$/flaskr/static/scss/materialize/components/_normalize.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flaskr/static/scss/components/_preloader.scss" beforeDir="false" afterPath="$PROJECT_DIR$/flaskr/static/scss/materialize/components/_preloader.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flaskr/static/scss/components/_pulse.scss" beforeDir="false" afterPath="$PROJECT_DIR$/flaskr/static/scss/materialize/components/_pulse.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flaskr/static/scss/components/_sidenav.scss" beforeDir="false" afterPath="$PROJECT_DIR$/flaskr/static/scss/materialize/components/_sidenav.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flaskr/static/scss/components/_slider.scss" beforeDir="false" afterPath="$PROJECT_DIR$/flaskr/static/scss/materialize/components/_slider.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flaskr/static/scss/components/_table_of_contents.scss" beforeDir="false" afterPath="$PROJECT_DIR$/flaskr/static/scss/materialize/components/_table_of_contents.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flaskr/static/scss/components/_tabs.scss" beforeDir="false" afterPath="$PROJECT_DIR$/flaskr/static/scss/materialize/components/_tabs.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flaskr/static/scss/components/_tapTarget.scss" beforeDir="false" afterPath="$PROJECT_DIR$/flaskr/static/scss/materialize/components/_tapTarget.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flaskr/static/scss/components/_timepicker.scss" beforeDir="false" afterPath="$PROJECT_DIR$/flaskr/static/scss/materialize/components/_timepicker.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flaskr/static/scss/components/_toast.scss" beforeDir="false" afterPath="$PROJECT_DIR$/flaskr/static/scss/materialize/components/_toast.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flaskr/static/scss/components/_tooltip.scss" beforeDir="false" afterPath="$PROJECT_DIR$/flaskr/static/scss/materialize/components/_tooltip.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flaskr/static/scss/components/_transitions.scss" beforeDir="false" afterPath="$PROJECT_DIR$/flaskr/static/scss/materialize/components/_transitions.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flaskr/static/scss/components/_typography.scss" beforeDir="false" afterPath="$PROJECT_DIR$/flaskr/static/scss/materialize/components/_typography.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flaskr/static/scss/components/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/flaskr/static/scss/materialize/components/_variables.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flaskr/static/scss/components/_waves.scss" beforeDir="false" afterPath="$PROJECT_DIR$/flaskr/static/scss/materialize/components/_waves.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flaskr/static/scss/components/forms/_checkboxes.scss" beforeDir="false" afterPath="$PROJECT_DIR$/flaskr/static/scss/materialize/components/forms/_checkboxes.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flaskr/static/scss/components/forms/_file-input.scss" beforeDir="false" afterPath="$PROJECT_DIR$/flaskr/static/scss/materialize/components/forms/_file-input.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flaskr/static/scss/components/forms/_forms.scss" beforeDir="false" afterPath="$PROJECT_DIR$/flaskr/static/scss/materialize/components/forms/_forms.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flaskr/static/scss/components/forms/_input-fields.scss" beforeDir="false" afterPath="$PROJECT_DIR$/flaskr/static/scss/materialize/components/forms/_input-fields.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flaskr/static/scss/components/forms/_radio-buttons.scss" beforeDir="false" afterPath="$PROJECT_DIR$/flaskr/static/scss/materialize/components/forms/_radio-buttons.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flaskr/static/scss/components/forms/_range.scss" beforeDir="false" afterPath="$PROJECT_DIR$/flaskr/static/scss/materialize/components/forms/_range.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flaskr/static/scss/components/forms/_select.scss" beforeDir="false" afterPath="$PROJECT_DIR$/flaskr/static/scss/materialize/components/forms/_select.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flaskr/static/scss/components/forms/_switches.scss" beforeDir="false" afterPath="$PROJECT_DIR$/flaskr/static/scss/materialize/components/forms/_switches.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flaskr/static/scss/materialize.scss" beforeDir="false" afterPath="$PROJECT_DIR$/flaskr/static/scss/materialize/_materialize.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flaskr/templates/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/flaskr/templates/main.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,11 +56,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/flaskr/__init__.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+            <state relative-caret-position="360">
+              <caret line="24" column="34" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
               </folding>
@@ -26,22 +68,36 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="main.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/flaskr/templates/main.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="55" selection-start-line="5" selection-start-column="55" selection-end-line="5" selection-end-column="55" />
+            <state relative-caret-position="113">
+              <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="materialize.scss" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/flaskr/static/scss/materialize.scss">
+      <file leaf-file-name="_materialize.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/flaskr/static/scss/materialize/_materialize.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="124">
-              <caret line="28" column="33" selection-start-line="28" selection-start-column="33" selection-end-line="28" selection-end-column="33" />
+            <state relative-caret-position="319">
+              <caret line="41" selection-end-line="41" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="flaskr.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/flaskr/static/scss/flaskr.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="2" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_forms.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/flaskr/static/scss/materialize/components/forms/_forms.scss">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
@@ -64,7 +120,11 @@
       </file>
       <file leaf-file-name="materialize.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/flaskr/static/js/materialize.js">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="20" column="19" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file leaf-file-name="setup.py" pinned="false" current-in-tab="false">
@@ -85,6 +145,12 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>onent</find>
+      <find>comp</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -95,8 +161,10 @@
         <option value="$PROJECT_DIR$/flaskr/static/node_modules/index.jsx" />
         <option value="$PROJECT_DIR$/setup.py" />
         <option value="$PROJECT_DIR$/flaskr/static/js/index.jsx" />
-        <option value="$PROJECT_DIR$/flaskr/templates/main.html" />
+        <option value="$PROJECT_DIR$/flaskr/static/scss/materialize/materialize.scss" />
+        <option value="$PROJECT_DIR$/flaskr/static/scss/flaskr.scss" />
         <option value="$PROJECT_DIR$/flaskr/__init__.py" />
+        <option value="$PROJECT_DIR$/flaskr/templates/main.html" />
       </list>
     </option>
   </component>
@@ -155,6 +223,23 @@
               <item name="TrainingSassJs" type="b2602c69:ProjectViewProjectNode" />
               <item name="TrainingSassJs" type="462c0819:PsiDirectoryNode" />
               <item name="flaskr" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="scss" type="462c0819:PsiDirectoryNode" />
+              <item name="materialize" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TrainingSassJs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TrainingSassJs" type="462c0819:PsiDirectoryNode" />
+              <item name="flaskr" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="scss" type="462c0819:PsiDirectoryNode" />
+              <item name="materialize" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TrainingSassJs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TrainingSassJs" type="462c0819:PsiDirectoryNode" />
+              <item name="flaskr" type="462c0819:PsiDirectoryNode" />
               <item name="templates" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -167,6 +252,11 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/flaskr/static/scss/materialize" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -197,17 +287,17 @@
     <frame x="1" y="23" width="1273" height="808" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32911393" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Python Console" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.35161743" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.34036568" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -244,24 +334,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/flaskr/static/scss/materialize.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="124">
-          <caret line="28" column="33" selection-start-line="28" selection-start-column="33" selection-end-line="28" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/flaskr/static/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="18" column="4" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/flaskr/templates/main.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="55" selection-start-line="5" selection-start-column="55" selection-end-line="5" selection-end-column="55" />
         </state>
       </provider>
     </entry>
@@ -280,15 +356,43 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/flaskr/static/js/materialize.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="19" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flaskr/static/scss/flaskr.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="2" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flaskr/static/scss/materialize/_materialize.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="41" selection-end-line="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flaskr/static/scss/materialize/components/forms/_forms.scss">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/flaskr/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+        <state relative-caret-position="360">
+          <caret line="24" column="34" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flaskr/templates/main.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="113">
+          <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
         </state>
       </provider>
     </entry>

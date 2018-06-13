@@ -14,7 +14,7 @@ def create_app(test_config=None):
     )
     assets = Environment(app)
     assets.url = app.static_url_path
-    scss = Bundle('../static/scss/materialize.scss', filters='pyscss', output='all.css')
+    scss = Bundle('../static/scss/flaskr.scss', filters='pyscss', output='all.css')
     assets.register('scss_all', scss)
 
     if test_config is None:
