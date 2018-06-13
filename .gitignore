@@ -117,3 +117,6 @@ htmlcov/
 dist/
 build/
 *.egg-info/
+
+#node module
+flaskr/static/node_modules/

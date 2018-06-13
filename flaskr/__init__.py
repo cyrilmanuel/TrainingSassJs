@@ -1,7 +1,7 @@
 import os
 
-from flask import Flask
-
+from flask import Flask, render_template
+from flask_assets import Environment,Bundle
 
 def create_app(test_config=None):
     # create and configure the app
@@ -9,7 +9,13 @@ def create_app(test_config=None):
     app.config.from_mapping(
         SECRET_KEY='dev',
         DATABASE=os.path.join(app.instance_path, 'flaskr.sqlite'),
+        static_folder="../static/dist",
+        template_folder="../static",
     )
+    assets = Environment(app)
+    assets.url = app.static_url_path
+    scss = Bundle('../static/scss/materialize.scss', filters='pyscss', output='all.css')
+    assets.register('scss_all', scss)
 
     if test_config is None:
         # load the instance config, if it exists, when not testing
@@ -24,9 +30,8 @@ def create_app(test_config=None):
     except OSError:
         pass
 
-    # a simple page that says hello
-    @app.route('/')
-    def hello():
-        return 'Hello, World!'
+    @app.route("/")
+    def index():
+        return render_template("main.html")
 
     return app
